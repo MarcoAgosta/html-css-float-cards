@@ -45,12 +45,6 @@ img{
     width: 150px;
 }
 
-main div{
-    background-color:darkgray;
-    width: 500px;
-    margin-top: 60px;
-}
-
 a{
     text-decoration: none;
 }
@@ -60,4 +54,28 @@ span{
     display: inline-block;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.targa{
+    background-color:#000000d9;
+    width: 400px;
+    display: inline-block;
+    float: left;
+}
+
+.riga{
+    margin-top: 100px;
+}
+
+.conteiner{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.sinistra{
+    margin-right: 165px;
+}
+
+.destra{
+    margin-left: 165px;
 }
