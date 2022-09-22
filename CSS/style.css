@@ -10,3 +10,20 @@
     clear: both;
  
 }
+
+header{
+    text-align: center;
+}
+
+#Titolo{
+    color: #e91e63;
+}
+
+header div{
+    margin-top: 50px;
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
