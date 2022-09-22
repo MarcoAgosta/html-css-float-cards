@@ -17,13 +17,47 @@ header{
 
 #Titolo{
     color: #e91e63;
+    font-family: "Fredoka One";
 }
 
 header div{
     margin-top: 50px;
 }
 
-p{
+header p{
     margin-left: 10%;
     margin-right: 10%;
+    font-family: "Fredoka One";
+}
+
+main p{
+    display: inline-block;
+    font-family: "Fredoka One";
+    color: white;
+    width: 200px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+img{
+    display: inline-block;
+    float: left;
+    width: 150px;
+}
+
+main div{
+    background-color:darkgray;
+    width: 500px;
+    margin-top: 60px;
+}
+
+a{
+    text-decoration: none;
+}
+
+span{
+    font-family: "Fredoka";
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
